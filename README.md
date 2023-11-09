@@ -427,11 +427,11 @@ The following questions relate to the documentation of the API.
 
 - What did you like about the documentation? Cite specific examples.
 
-> The documentation was specific in how to use the API, so there was no uncertainty in how to use it. The documentation also provided a summary of how a successfull query would look like.
+> The documentation was specific in how to use the API, so there was no uncertainty in how to use it. For example, the documentation described that 'There are two possible query parameters for this API' and proceeded to explain how to use those two parameters. The documentation also provided a summary of how a successfull query would look like.
 
 - What did you find challenging about the documentation? Cite specific examples.
 
-> I found the documentation a bit dense when describing the query parameters and the payload fields of a successfull query.
+> I found the documentation a bit dense when describing the query parameters and the payload fields of a successfull query. For example, when describing the page parameter, the documentation states "The page parameter is optional and is only needed if the results from a given search don't fit in a single page. If specified, page must be an integer between 1 and results.numPages (see results format below for details)." After reading this am seocnd time, I was able to understand what the documentation was talking about.
 
 - Did the quality of the documentation impact your decision to use it?
 
