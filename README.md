@@ -277,7 +277,7 @@ For the following questions, choose a single endpoint to request within Postman.
 
 - What status code did you get back from your request? Why did you receive this status code?
 
-> 200 OK. I recieved this because a status of 200 lets you know that it was a successful request
+> 200 OK. I recieved this because a status of 200 lets you know that it was a successful request.
 
 - Click on the **response** headers in Postman. What are the `Content-Type` and `Content-Length` (provide exact values)?
 
@@ -307,11 +307,11 @@ The following questions relate to the documentation of the API.
 
 - Did the quality of the documentation impact your decision to use it?
 
-> Yes the quality did impact my decision because it had a lot of information that most APIs i've seen hadnt had.
+> Yes, the quality did impact my decision because it had a lot of information that most APIs i've seen didnt have.
 
 - Did you switch which API you chose initially because of its documentation, or did you stick with the one you selected and work your way through it?
 
-> Yes I ended up switching a couple of times because some docs didnt really work, or some were vague and bare.
+> Yes, I ended up switching a couple of times because some docs didnt really work, or some were vague and bare.
 
 ### Definitions
 
