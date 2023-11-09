@@ -24,7 +24,7 @@ Do your best to answer the questions with specific details. Writing about code c
 
 - What is the URL of the documentation?
 
-> http://
+>https://valorant-api.com/
 
 ### Response
 
@@ -32,7 +32,7 @@ For the following questions, choose a single endpoint to request within Postman.
 
 - What is the full URL of the endpoint?
 
-> http://
+> http://https://valorant-api.com/v1/agents
 
 - What response do you receive when you make a request to that endpoint? Be sure to wrap your answer in the correct formatting for JSON.
 
@@ -43,7 +43,7 @@ For the following questions, choose a single endpoint to request within Postman.
 
 - What status code did you get back from your request? Why did you receive this status code?
 
-> 00
+> 200 OK
 
 - Click on the **response** headers in Postman. What are the `Content-Type` and `Content-Length` (provide exact values)?
 
