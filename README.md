@@ -16,11 +16,11 @@ Do your best to answer the questions with specific details. Writing about code c
 
 - Which one did you choose? Provide the name and base URL.
 
-> http://
+> Bandsintown: (https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.0)
 
 - What is the purpose of this API? Describe what data the API provides and why someone might want to use it.
 
-> The purpose of this API is...
+> The purpose of this API is designed for artists and enterprises representing artists (like agencies, management companies, manager/entities, etc). Even though it offers read-only access to artist info and artist events, the former returns a link to the Bandsintown artist page, current number of trackers, artist photo, and more; while the latter returns a link to the list of events, date and time, venue info: name and location, ticket info, description, line-up, as well as a link to the Bandsintown event page.  
 
 - What is the URL of the documentation?
 
