@@ -16,15 +16,16 @@ Do your best to answer the questions with specific details. Writing about code c
 
 - Which one did you choose? Provide the name and base URL.
 
-> Bandsintown: (https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.0)
+> Bandsintown API: not sure if this is what you want (https://rest.bandsintown.com/) which was provided on this direct API link: (https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.0)
 
 - What is the purpose of this API? Describe what data the API provides and why someone might want to use it.
 
 > The purpose of this API is designed for artists and enterprises representing artists (like agencies, management companies, manager/entities, etc). Even though it offers read-only access to artist info and artist events, the former returns a link to the Bandsintown artist page, current number of trackers, artist photo, and more; while the latter returns a link to the list of events, date and time, venue info: name and location, ticket info, description, line-up, as well as a link to the Bandsintown event page.  
+> One can also specify a range of dates, past dates or upcoming dates for events attached to particular artists.
 
 - What is the URL of the documentation?
 
-> http://
+> (https://publicapis.io/bandsintown-api)
 
 ### Response
 
@@ -32,13 +33,50 @@ For the following questions, choose a single endpoint to request within Postman.
 
 - What is the full URL of the endpoint?
 
-> http://
+> (https://rest.bandsintown.com/artists/Kaytranada?app_id=YOUR_APP_ID)
 
 - What response do you receive when you make a request to that endpoint? Be sure to wrap your answer in the correct formatting for JSON.
 
-```json
-
-
+```{
+    "id": "5035831",
+    "name": "Kaytranada",
+    "url": "https://www.bandsintown.com/a/5035831?came_from=267&app_id=YOUR_APP_ID",
+    "mbid": "",
+    "options": {
+        "display_listen_unit": false
+    },
+    "tracking": [],
+    "image_url": "https://photos.bandsintown.com/large/10057975.jpeg",
+    "thumb_url": "https://photos.bandsintown.com/thumb/10057975.jpeg",
+    "facebook_page_url": "http://www.facebook.com/536774999682431",
+    "tracker_count": 396487,
+    "upcoming_event_count": 2,
+    "support_url": "",
+    "links": [
+        {
+            "type": "facebook",
+            "url": "https://www.facebook.com/Kaytranada/"
+        },
+        {
+            "type": "amazon",
+            "url": "https://music.amazon.com/artists/B00BF73Z3G"
+        },
+        {
+            "type": "website",
+            "url": "https://www.kaytranada.com/"
+        },
+        {
+            "type": "twitter",
+            "url": "https://twitter.com/KAYTRANADA"
+        },
+        {
+            "type": "instagram",
+            "url": "https://www.instagram.com/kaytranada/"
+        }
+    ],
+    "artist_optin_show_phone_number": false,
+    "show_multi_ticket": true
+}
 ```
 
 - What status code did you get back from your request? Why did you receive this status code?
