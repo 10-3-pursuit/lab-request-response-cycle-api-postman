@@ -307,7 +307,7 @@ The following questions relate to the documentation of the API.
 
 - Did the quality of the documentation impact your decision to use it?
 
-> Yes because it was clean, it had a lot of information, and it literally shows an endpoint at the top of the page.
+> Yes the quality did impact my decision because it had a lot of information that most APIs i've seen hadnt had.
 
 - Did you switch which API you chose initially because of its documentation, or did you stick with the one you selected and work your way through it?
 
