@@ -57,7 +57,7 @@ For the following questions, choose a single endpoint to request within Postman.
 
 - Summarize the most salient parts of the data you are getting back. How would you describe what is included within the response?
 
-> The data we received is an array of objects in JSON format, and includes a message in the object with the value "Powered by random-d.uk", and a url "https://random-d.uk/api/192.jpg"
+> The data we received is an object within an array in JSON format, and includes a message in the object with the value "Powered by random-d.uk", and a url "https://random-d.uk/api/192.jpg"
 
 - Identify at least two ways to use the data within a web application.
 
@@ -77,11 +77,11 @@ The following questions relate to the documentation of the API.
 
 - Did the quality of the documentation impact your decision to use it?
 
-> Yes, because it was simple and straightforward.
+> Yes, because it was simple and straightforward. I wanted to use an API that was not going to be complicated to use.
 
 - Did you switch which API you chose initially because of its documentation, or did you stick with the one you selected and work your way through it?
 
-> No, I stuck with the first one I picked and worked through it.
+> No, I stuck with the first one I picked and worked through it. It was simple enough that I saw no need to change it.
 
 ### Definitions
 
