@@ -81,21 +81,21 @@ For the following questions, choose a single endpoint to request within Postman.
 
 - What status code did you get back from your request? Why did you receive this status code?
 
-> 00
+> 200 OK; I assume it was working fine, since it's within the 200 block with no errors.
 
 - Click on the **response** headers in Postman. What are the `Content-Type` and `Content-Length` (provide exact values)?
 
-> `Content-Type`:
+> `Content-Type`: application/json
 
-> `Content-Length`:
+> `Content-Length`: 440
 
 - Summarize the most salient parts of the data you are getting back. How would you describe what is included within the response?
 
-> The data we received includes...
+> The data we received includes a tracker count of 396487 followers/fans for producer/artist Kaytranada, who doesn't even rap or sing, nor is he American. He has two(2) upcoming tour dates, and all his social media handles are available: twitter (now 'X'), facebook, instagram and even amazon, plus his website.
 
 - Identify at least two ways to use the data within a web application.
 
-> I could imagine integrating this API into an app that ...
+> I could imagine integrating this API into an app that helps a user buy concert tickets in advance, or in real time for the day of a show for the artist in question, Kaytranada; and even directs the user to engage further w/the artist social media handles; and purchase products attached to the artists on amazon.com. 
 
 ### Documentation
 
@@ -103,19 +103,19 @@ The following questions relate to the documentation of the API.
 
 - What did you like about the documentation? Cite specific examples.
 
-> The documentation was ...
+> The documentation was laid out clearly on a simple layout page, making it easy for the programmer to navigate towards their needs for any relevant information.
 
 - What did you find challenging about the documentation? Cite specific examples.
 
-> I found the documentation ...
+> I found the documentation difficult to find, and the access key wasn't exactly working, and this lab let's be honest, wouldn't even reach this far without assistance.
 
 - Did the quality of the documentation impact your decision to use it?
 
-> Yes/No because...
+> Yes -- I would avoid this API in the future, the sense is the access to use smoothly for future projects would prove difficult. If I learn my way around some of the hindrances beforehand, 'maybe'.
 
 - Did you switch which API you chose initially because of its documentation, or did you stick with the one you selected and work your way through it?
 
-> Yes/No I ended up ...
+> No, at first I had thoughts to switch, but again, with assistance, I stuck it through.
 
 ### Definitions
 
@@ -123,12 +123,12 @@ The following questions require you to define some concepts and terms. Provide d
 
 - In your own words, summarize the request-response cycle.
 
-> The request-response cycle ...
+> The request-response cycle is a back and forth between a remote server and your browser (client), and sometimes a third party, a few times 'talking' to each other, to first land the user on the home page/body of the website by way of the internet.  
 
 - In your own words, describe what an API is.
 
-> An API is ...
+> An API is and stands for the Application Program Interface, for starters. The concept of the API is one that isn't immediately solidified in my head especially when applied to its use. But it seems that it's a base of programming languages, formats and code that can be applied to use for various functional sites, within specific categories of a working app.
 
 - In your own words, describe the purpose of Postman.
 
-> Postman is an application that ...
+> Postman is an application that analyzes and breakdowns the 'specs' in detail of different branches of the API. 
