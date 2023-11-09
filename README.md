@@ -16,23 +16,23 @@ Do your best to answer the questions with specific details. Writing about code c
 
 - Which one did you choose? Provide the name and base URL.
 
-> http://
+> Xeno-canto; https://xeno-canto.org/api/2/recordings
 
 - What is the purpose of this API? Describe what data the API provides and why someone might want to use it.
 
-> The purpose of this API is...
+> The purpose of this API is to get a recording of a wildlife sound. Someone may use the recordings to study wildlife sounds
 
 - What is the URL of the documentation?
 
-> http://
+> https://xeno-canto.org/explore/api
 
-### Response
+### Responsex
 
 For the following questions, choose a single endpoint to request within Postman.
 
 - What is the full URL of the endpoint?
 
-> http://
+> https://placebear.com/200/400
 
 - What response do you receive when you make a request to that endpoint? Be sure to wrap your answer in the correct formatting for JSON.
 
