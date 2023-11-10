@@ -150,6 +150,7 @@ For the following questions, choose a single endpoint to request within Postman.
 - What status code did you get back from your request? Why did you receive this status code?
 
 > 200
+>The 200 status code indicates a succesful request.
 
 - Click on the **response** headers in Postman. What are the `Content-Type` and `Content-Length` (provide exact values)?
 
