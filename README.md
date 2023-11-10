@@ -99,4 +99,4 @@ The following questions require you to define some concepts and terms. Provide d
 
 - In your own words, describe the purpose of Postman.
 
-> Postman is an application that allows developers to test, create, and use APIs.
+> Postman is an application that allows developers to test, create, and use APIs
