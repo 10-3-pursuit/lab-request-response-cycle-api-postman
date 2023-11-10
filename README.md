@@ -71,19 +71,19 @@ The following questions relate to the documentation of the API.
 
 - What did you like about the documentation? Cite specific examples.
 
-> The documentation was clear, concise, and had all of the data that I needed to use it correctly
+> The documentation was clear, concise, and had all of the data that I needed to use it correctly. For example, it didn't just give me the instructions in plain english, it also gave me code snippets of what to expect per instruction. Not to mention all of the instructions were organized and seperated by h2 text.
 
 - What did you find challenging about the documentation? Cite specific examples.
 
-> I found the documentation ...
+> I found the documentation not challenging at all. In fact it was a breath of fresh air since the other 3 APIs I tried either had irrelivant documentaion or none at all. I think I was just unlucky.
 
 - Did the quality of the documentation impact your decision to use it?
 
-> Yes/No because...
+> Yes because I was expecting to read the documentation and still not know how to use it, but I had a good grasp of what to do after reading.
 
 - Did you switch which API you chose initially because of its documentation, or did you stick with the one you selected and work your way through it?
 
-> Yes/No I ended up ...
+> Yes I ended up switching which API I chose initially because I just couldn't find the URL endpoint. I initially chose lordicon.com to use as an API because I thought I could use it to generate random icons on request, but there was no endpoint provided, so I figured it wasn't meant for me.
 
 ### Definitions
 
@@ -91,11 +91,11 @@ The following questions require you to define some concepts and terms. Provide d
 
 - In your own words, summarize the request-response cycle.
 
-> The request-response cycle ...
+> The request-response cycle is a way for the client, server, and database to all communicate with each other to keep the site running smoothly and to give the client what they want. 
 
 - In your own words, describe what an API is.
 
-> An API is ...
+> An API is kind of like a modular piece of a machine thats pre-built and can be selected,installed, or replaced depending on the needs of the programmer. For example let's say that you have an AI that you wan't to train by feeding it data. Naturally after working so hard to make an AI, you wouldn't want to spend hundreds of hours finding the right data to give to it. The solution find an API that can do it for you. Just have the AI pull data from the API you picked instead of combing the net by hand.
 
 - In your own words, describe the purpose of Postman.
 
